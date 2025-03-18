@@ -1,0 +1,26 @@
+html {
+    justify-content: center;
+    background-color:#EEFF66 ;
+    color: #000066;
+    font-style: italic;
+    border: auto;
+    width: 50%;
+    margin:auto;
+    text-align: center;
+    
+    
+}
+ #hetek {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+hr {
+    color: red;
+    border-color: red;
+}
+#egynap {
+    
+    display: flex;
+    justify-content: space-between;
+}
